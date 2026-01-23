@@ -1,5 +1,4 @@
 # Bu program, [Proje Amacı] için Python dersi kapsamında geliştirilmiştir.
-
 import string
 import re
 from collections import Counter
@@ -69,4 +68,5 @@ def main():
     print(f"\"{aranacak}\" kelimesi metinde {kelime_tekrar(girilen_metin, aranacak)} kez geçmektedir")
 
 if __name__ == "__main__":
+
     main()
