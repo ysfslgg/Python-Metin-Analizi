@@ -21,6 +21,7 @@ Uygulama, girilen bir metin üzerinde şu analizleri yapar:
    ```bash
    python main.py
 
-   👨‍💻 Geliştirici
-   Öğrenci: M. Yusuf Silgu
-   Üniversite: İstinye Üniversitesi - Bilgisayar Programcılığı
+   ---
+
+## 👨‍💻 Geliştirici
+- **Öğrenci:** Muhammed Yusuf Silgu
