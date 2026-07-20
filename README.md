@@ -24,5 +24,5 @@ Uygulama, girilen bir metin üzerinde şu analizleri yapar:
    ---
 
 ## 👨‍💻 Geliştirici
-- **Öğrenci:** Muhammed Yusuf Sil
-- Üniversite: İstinye Üniversitesi - Bilgisayar Programcılığıgu
+- **Geliştirici:** Muhammed Yusuf Silgu
+- **Üniversite:** İstinye Üniversitesi - Bilgisayar Programcılığı
